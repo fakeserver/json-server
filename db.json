@@ -1,8 +1,10 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "key": 1,
+      "age": "1",
+      "name": "nooshin1",
+      "gender": "F",
     }
   ],
   "profile": {
