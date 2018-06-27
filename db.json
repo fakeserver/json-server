@@ -10,6 +10,9 @@
     { "key": 3, "name": "Post 3", "age": "3", "gender": "F"},
     { "key": 4, "name": "Post 4", "age": "4", "gender": "F"}
   ],
+  "post3": [
+    { "key": 1, "name": "John Brown", "age": "32", "address": "London No. 1 Lake Park"},
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
